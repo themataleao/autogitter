@@ -1,0 +1,8 @@
+/root/autogitter/autogitter.sh: 3: cannot create ./random/59b1684ff46c43c62b6a54e48082fd24: Directory nonexistent
+/root/autogitter/autogitter.sh: 4: ./gitpusher.sh: not found
+/root/autogitter/autogitter.sh: 3: cannot create ./random/a3ad75c0c8d3d1be5c79e64dfec22c63: Directory nonexistent
+/root/autogitter/autogitter.sh: 4: ./gitpusher.sh: not found
+/root/autogitter/autogitter.sh: 3: cannot create ./random/91603e5884eec8044bf8618376efad42: Directory nonexistent
+/root/autogitter/autogitter.sh: 4: ./gitpusher.sh: not found
+/root/autogitter/autogitter.sh: 3: cannot create ./random/6cf19f2f438f1e00fd38c77a94dc291f: Directory nonexistent
+/root/autogitter/autogitter.sh: 4: ./gitpusher.sh: not found
