@@ -1,4 +1,4 @@
-#bin/bash
+#!/bin/bash
 binaryWord=`cat binarizedWord.txt`
 for (( i=0; i<${#binaryWord}; i++ )); do
   echo "${binaryWord:$i:1}"

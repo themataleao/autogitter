@@ -1,3 +1,4 @@
+#!/bin/bash
 cd /root/autogitter
 filename=`cat /dev/urandom | tr -cd 'a-f0-9' | head -c 32`
 filesize=1073
