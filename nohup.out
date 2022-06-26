@@ -2,3 +2,11 @@
 ./readBinaryWord.sh: 3: Syntax error: Bad for loop variable
 ./readBinaryWord.sh: 3: Syntax error: Bad for loop variable
 1
+The following paths are ignored by one of your .gitignore files:
+gitlogs
+logs
+Use -f if you really want to add them.
+[master 828763f] push it to the limmit
+ 5 files changed, 6 insertions(+), 2 deletions(-)
+ create mode 100644 random/fd2dc47656b1b5065f65f0f40de4ef02
+Push it...
