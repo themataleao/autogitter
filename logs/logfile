@@ -22,3 +22,8 @@ To github.com:themataleao/autogitter.git
  create mode 100644 random/82bc708fd833cd669d0eba3bd4706c08
 To github.com:themataleao/autogitter.git
    7a6dcf1..f2c6bf3  master -> master
+[master 8f56dac] this is a trial
+ 2 files changed, 5 insertions(+)
+ create mode 100644 random/2c3afe181139a262237e0c02b24d065d
+To github.com:themataleao/autogitter.git
+   f2c6bf3..8f56dac  master -> master
