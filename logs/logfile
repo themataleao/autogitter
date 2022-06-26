@@ -6,3 +6,9 @@
 /root/autogitter/autogitter.sh: 4: ./gitpusher.sh: not found
 /root/autogitter/autogitter.sh: 3: cannot create ./random/6cf19f2f438f1e00fd38c77a94dc291f: Directory nonexistent
 /root/autogitter/autogitter.sh: 4: ./gitpusher.sh: not found
+[master 7aa0932] this is a trial
+ 3 files changed, 9 insertions(+)
+ create mode 100644 logs/logfile
+ create mode 100644 random/e392a11d113899da7bebf0c401c2207a
+To github.com:themataleao/autogitter.git
+   fc5f9bf..7aa0932  master -> master
