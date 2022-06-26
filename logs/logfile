@@ -48,3 +48,10 @@ Use -f if you really want to add them.
 [master 63bdf0b] this is a trial
  3 files changed, 5 insertions(+)
  create mode 100644 random/f0bc520f245cd3b44caedae160f8e421
+The following paths are ignored by one of your .gitignore files:
+gitlogs
+logs
+Use -f if you really want to add them.
+[master 1355e86] this is a trial
+ 3 files changed, 9 insertions(+)
+ create mode 100644 random/910c50c936b90f356600724464812557
