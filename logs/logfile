@@ -41,3 +41,10 @@ To github.com:themataleao/autogitter.git
 [master fe24dfb] this is a trial
  3 files changed, 7 insertions(+), 1 deletion(-)
  create mode 100644 random/26b2e2edafce23df865ae3b7febc0250
+The following paths are ignored by one of your .gitignore files:
+gitlogs
+logs
+Use -f if you really want to add them.
+[master 63bdf0b] this is a trial
+ 3 files changed, 5 insertions(+)
+ create mode 100644 random/f0bc520f245cd3b44caedae160f8e421
