@@ -16,5 +16,5 @@ for (( i=0; i<${#binaryWord}; i++ )); do
   else
     echo "...to the limit"
   fi
-  sleep 10
+  sleep 1d
 done
