@@ -5,7 +5,7 @@ for (( i=0; i<${#binaryWord}; i++ )); do
   pushOrNot=${binaryWord:$i:1}
   ./autogitter.sh
   if [ "$pushOrNot" == "1" ]; then
-    for i in {1..20}
+    for i in {1..50}
     do
       echo "Push it..."
       ./autogitter.sh
