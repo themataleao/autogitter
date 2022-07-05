@@ -3,7 +3,6 @@ binaryWord=`cat binarizedWord.txt`
 for (( i=0; i<${#binaryWord}; i++ )); do
   echo "${binaryWord:$i:1}"
   pushOrNot=${binaryWord:$i:1}
-  ./autogitter.sh
   if [ "$pushOrNot" == "1" ]; then
     for i in {1..50}
     do
