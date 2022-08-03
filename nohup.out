@@ -6295,3 +6295,11 @@ Use -f if you really want to add them.
 ...to the limit
 1
 Push it...
+The following paths are ignored by one of your .gitignore files:
+gitlogs
+logs
+Use -f if you really want to add them.
+[master bfc37c9] push it to the limmit
+ 2 files changed, 23 insertions(+)
+ create mode 100644 random/fece4d65863b7640b25f9c4c14581a49.c
+Push it...
