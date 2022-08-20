@@ -7152,3 +7152,5 @@ Use -f if you really want to add them.
  create mode 100644 random/54a4bf549293ab418de99148154c4a8d.php
 ...to the limit
 ./readBinaryWord.sh: line 3: ((: {1..9}: syntax error: operand expected (error token is "{1..9}")
+0
+Push it...

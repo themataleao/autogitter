@@ -13,8 +13,8 @@ for (( i=0; i<${#binaryWord}; i++ )); do
       sleep $((MINWAIT+RANDOM % (MAXWAIT-MINWAIT)))
     done
   else
-    howMany=$((5+RANDOM % 15))
-    for i in {1..${howMany}}
+    howMany=$((1+RANDOM % 10))
+    for (( c=1; c<=$howMany; c++ ))
     do
       echo "Push it..."
       ./autogitter.sh
