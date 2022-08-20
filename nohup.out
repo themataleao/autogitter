@@ -7154,3 +7154,11 @@ Use -f if you really want to add them.
 ./readBinaryWord.sh: line 3: ((: {1..9}: syntax error: operand expected (error token is "{1..9}")
 0
 Push it...
+The following paths are ignored by one of your .gitignore files:
+gitlogs
+logs
+Use -f if you really want to add them.
+[master d25e983] push it to the limmit
+ 5 files changed, 9 insertions(+), 10 deletions(-)
+ create mode 100644 random/c6cb064ec5571d5eccb865738f596902.ts
+Push it...
