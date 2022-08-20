@@ -7143,3 +7143,12 @@ Use -f if you really want to add them.
 ...to the limit
 0
 Push it...
+The following paths are ignored by one of your .gitignore files:
+gitlogs
+logs
+Use -f if you really want to add them.
+[master 864f63c] push it to the limmit
+ 3 files changed, 11 insertions(+), 1 deletion(-)
+ create mode 100644 random/54a4bf549293ab418de99148154c4a8d.php
+...to the limit
+./readBinaryWord.sh: line 3: ((: {1..9}: syntax error: operand expected (error token is "{1..9}")
