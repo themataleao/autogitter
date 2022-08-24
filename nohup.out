@@ -7849,3 +7849,11 @@ Use -f if you really want to add them.
  2 files changed, 8 insertions(+)
  create mode 100644 random/bfe4239289d4c62956964ae1b4735741.cpp
 Push it...
+The following paths are ignored by one of your .gitignore files:
+gitlogs
+logs
+Use -f if you really want to add them.
+[master 7a303b1] push it to the limmit
+ 2 files changed, 8 insertions(+)
+ create mode 100644 random/4b1290a0feb6e3827c8456b8b31950d1.html
+Push it...
