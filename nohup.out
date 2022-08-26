@@ -8116,3 +8116,11 @@ Use -f if you really want to add them.
 ...to the limit
 1
 Push it...
+The following paths are ignored by one of your .gitignore files:
+gitlogs
+logs
+Use -f if you really want to add them.
+[master fb6ac4c] push it to the limmit
+ 2 files changed, 10 insertions(+)
+ create mode 100644 random/108c5b4d5967f8afdf3a1c74b1011927.php
+Push it...
