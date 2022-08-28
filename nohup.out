@@ -8615,3 +8615,11 @@ Use -f if you really want to add them.
  2 files changed, 8 insertions(+)
  create mode 100644 random/c5f15ee2c3d6e9557266b8c19f7e8d09.css
 Push it...
+The following paths are ignored by one of your .gitignore files:
+gitlogs
+logs
+Use -f if you really want to add them.
+[master d9a6eb5] push it to the limmit
+ 2 files changed, 8 insertions(+)
+ create mode 100644 random/f726ba70de430b3d3241ed9ce81e2ee0.swift
+Push it...
