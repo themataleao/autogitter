@@ -9471,3 +9471,11 @@ See "git help gc" for manual housekeeping.
  2 files changed, 10 insertions(+)
  create mode 100644 random/cf70e203e809a384c9760080e18042c9.css
 Push it...
+The following paths are ignored by one of your .gitignore files:
+gitlogs
+logs
+Use -f if you really want to add them.
+[master 631f0c6] push it to the limmit
+ 2 files changed, 10 insertions(+)
+ create mode 100644 random/1441ed36a5dcdca071a7245080c0635c.py
+Push it...
