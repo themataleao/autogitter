@@ -13418,3 +13418,11 @@ Use -f if you really want to add them.
 ...to the limit
 1
 Push it...
+The following paths are ignored by one of your .gitignore files:
+gitlogs
+logs
+Use -f if you really want to add them.
+[master cdcfde4] push it to the limmit
+ 2 files changed, 10 insertions(+)
+ create mode 100644 random/a84c60a667c4dd8bff851080321ad730.c
+Push it...
