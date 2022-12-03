@@ -1,7 +1,6 @@
 #!/bin/bash
 binaryWord=`cat binarizedWord.txt`
 for (( i=0; i<${#binaryWord}; i++ )); do
-  echo "${binaryWord:$i:1}"
   pushOrNot=${binaryWord:$i:1}
   if [ "$pushOrNot" == "1" ]; then
     for i in {1..50}
@@ -13,8 +12,7 @@ for (( i=0; i<${#binaryWord}; i++ )); do
       sleep $((MINWAIT+RANDOM % (MAXWAIT-MINWAIT)))
     done
   else
-    howMany=$((1+RANDOM % 10))
-    for (( c=1; c<=$howMany; c++ ))
+    for c in {1..10}
     do
       echo "Push it..."
       ./autogitter.sh
