@@ -43185,3 +43185,13 @@ Use -f if you really want to add them.
  2 files changed, 8 insertions(+)
  create mode 100644 random/529b4dc84442df5cebf496baad4bd444.cuda
 Push it...
+The following paths are ignored by one of your .gitignore files:
+gitlogs
+logs
+Use -f if you really want to add them.
+Auto packing the repository in background for optimum performance.
+See "git help gc" for manual housekeeping.
+[master 17ba0d6d] push it to the limmit
+ 2 files changed, 8 insertions(+)
+ create mode 100644 random/679e18bf3c87a7ebf55536457a969eb0.cuda
+Push it...
