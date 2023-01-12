@@ -43195,3 +43195,13 @@ See "git help gc" for manual housekeeping.
  2 files changed, 8 insertions(+)
  create mode 100644 random/679e18bf3c87a7ebf55536457a969eb0.cuda
 Push it...
+The following paths are ignored by one of your .gitignore files:
+gitlogs
+logs
+Use -f if you really want to add them.
+Auto packing the repository in background for optimum performance.
+See "git help gc" for manual housekeeping.
+[master 844b4622] push it to the limmit
+ 2 files changed, 10 insertions(+)
+ create mode 100644 random/073db0c7c44f82f7c55d049c53a9c156.cpp
+Push it...
