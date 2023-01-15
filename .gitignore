@@ -1,0 +1,8 @@
+logs/
+gitlogs/
+*.log
+nohup.out
+logs
+__pycache__/
+__init__.py
+autogitter.py
